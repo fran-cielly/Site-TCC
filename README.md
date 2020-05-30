@@ -1,2 +1,1 @@
-Site Inside Out
-Site criado para a empresa fícticia do meu grupo para o TCC em 2018
+Site construido para a empresa fíciticia (InsideOut) criada para o meu grupo de TCC da ETEC de Guaianazes em 2018
